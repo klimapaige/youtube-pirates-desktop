@@ -1,0 +1,2 @@
+run yarn global add windows-build-tools
+run yarn add node-sass
